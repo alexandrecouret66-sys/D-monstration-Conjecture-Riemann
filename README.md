@@ -1,4 +1,4 @@
-# Démonstration-Conjecture-Riemann
+# modular-analytic-framework-RH
 4théorèmes-démonstration-Riemann
 # Modular Analytic Framework for the Riemann Hypothesis (T1′–T4)
 
